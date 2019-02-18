@@ -1,0 +1,1 @@
+for i in {1..26};do cat ciphertext | cut -d "{" -f2 | cut -d "}" -f1 | /usr/games/caesar $i; done | head -n 3 | tail -1
