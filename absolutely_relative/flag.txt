@@ -1,0 +1,1 @@
+Create a symbolic link in /tmp folder on shell and create a permission.txt file. Voila!!! picoCTF{3v3r1ng_1$_r3l3t1v3_6193e4db}
