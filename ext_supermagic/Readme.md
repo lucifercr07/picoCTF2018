@@ -1,0 +1,1 @@
+In this problem we need to check the ext type using fsck(file system check), it will depict some magic number broken, google regarding magic numbers in file system it will show that specific hex need to be at 1080-1081, use ghex to open the file and edit magic numbers. Voila!!! use file on *.img and mount it. Find flag.jpg
